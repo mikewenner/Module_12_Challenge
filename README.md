@@ -1,6 +1,7 @@
 # Module_12_Challenge
 ***
 ## Overview of the Analysis
+* Refer to credit_risk_resampling.ipynb file for for analysis performed for the project
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
